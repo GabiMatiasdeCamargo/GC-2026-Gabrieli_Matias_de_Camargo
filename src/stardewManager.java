@@ -6,7 +6,6 @@ public class stardewManager {
     public static void main(String[] args) {
         List<Animal> curral = new ArrayList<>();
 
-        // Inicializando os animais no curral conforme os requisitos
         curral.add(new VacaMae("101", "Mimosa", "Holandesa", 7, false));
         curral.add(new GalinhaMae("102", "Giselda", "Caipira", 1, true));
         curral.add(new OvelhaMae("103", "Chiquinha", "Merino", 3, true));
