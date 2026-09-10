@@ -1,7 +1,7 @@
 public class proceduralOldSteveCode {
     public static void main(String[] args) {
         System.out.println("╔══════════════════════════════════════════════════════════╗");
-        System.out.println("║   VELHO STEVE - FÁBRICA DE PICARETAS MANUAL            ║");
+        System.out.println("║   VELHO STEVE - FÁBRICA DE PICARETAS MANUAL              ║");
         System.out.println("╚══════════════════════════════════════════════════════════╝");
 
         Picareta p1 = new Picareta("madeira", 50, 5);
